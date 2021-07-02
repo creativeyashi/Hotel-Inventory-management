@@ -10,8 +10,7 @@
 <br />2) HTML : for front end
 <br />3) CSS3/BOOTSTRAP : For styling effects
 <br />4) Jvascript
-<br />5) Jquery/Ajax
-<br />6) Mysql : For Database
+<br />5) Mysql : For Database
 
 <br/>[/New/] In this , i have created a dummy wallet . but It can br integrted paypal wallet (by nodejs).
 ## How to Use :
